@@ -1,6 +1,6 @@
 # Hi, I'm Rifki 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=378ADD&width=500&lines=ML+Engineer+%C2%B7+Student;Building+FBDS+%F0%9F%94%AC;Telkom+University+%C2%B7+Bandung" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=378ADD&width=700&lines=Telecommunication+Engineering+%C2%B7+Student;Telkom+University+%C2%B7+Bandung;Interesting+in+AI+and+Machine+Learning+%F0%9F%A4%96%F0%9F%A7%A0" alt="Typing SVG" />
 
 Final-year student passionate about **machine learning** & intelligent systems.
 Currently building **FBDS** — a fake BTS detection system using anomaly detection.
